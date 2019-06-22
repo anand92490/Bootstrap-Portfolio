@@ -4,17 +4,20 @@
 
 }
 
-h3{
-    color: rgb(16, 124, 124);
+
+
+.navbar-light .navbar-brand{
+    background:none;
+    color: rgba(227, 225, 219, 0.927);
     padding: 10px 10px;
-    border-bottom: 1px solid rgb(39, 117, 117);
+   
    
 }
 img{
     height:230px;
     float:left;
-    padding-right:20px;
-    padding-bottom:20px; 
+    padding:15px 15px;
+    
 }
 
 p{
